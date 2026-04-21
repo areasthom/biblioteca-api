@@ -128,7 +128,7 @@ src/main/java/com/thom/biblioteca
 ## 🔗 Projeto no LinkedIn
 
 ```text
-Link da publicação: COLE_AQUI_O_LINK_DO_POST
+Link da publicação: https://www.linkedin.com/feed/update/urn:li:activity:7452451711643709440/
 ```
 
 ---
