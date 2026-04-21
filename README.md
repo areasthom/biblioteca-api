@@ -1,6 +1,6 @@
 # 📚 Biblioteca API
 
-API desenvolvida em Java com Spring Boot para gerenciar livros de uma biblioteca.
+> API desenvolvida em Java com Spring Boot para gerenciar livros de uma biblioteca.
 
 ---
 
